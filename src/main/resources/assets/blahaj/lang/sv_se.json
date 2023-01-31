@@ -1,0 +1,9 @@
+{
+	"item.blahaj.blue_shark": "Mjukleksak Haj",
+	"item.blahaj.blahaj:blue_shark.tooltip": "alias Blåhaj",
+	"item.blahaj.gray_shark": "Mjukleksak Gråhaj",
+	"item.blahaj.blahaj:gray_shark.tooltip": "alias Klappar Haj",
+	"item.blahaj.bread": "Brödkudde",
+	"tooltip.blahaj.owner.craft": "Skapad av %s",
+	"tooltip.blahaj.owner.rename": "%s av %s"
+}
