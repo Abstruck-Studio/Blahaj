@@ -1,0 +1,9 @@
+{
+	"item.blahaj.blue_shark": "絨毛鯊魚玩具",
+	"item.blahaj.blahaj:blue_shark.tooltip": "a.k.a. Blahaj",
+	"item.blahaj.gray_shark": "灰色鯊魚玩具",
+	"item.blahaj.blahaj:gray_shark.tooltip": "a.k.a. Klappar Haj",
+	"item.blahaj.bread": "麵包抱枕",
+	"tooltip.blahaj.owner.craft": "由 %s 製作",
+	"tooltip.blahaj.owner.rename": "%s 屬於 %s"
+}
